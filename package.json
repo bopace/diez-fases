@@ -1,0 +1,22 @@
+{
+  "name": "diez-fases",
+  "version": "0.0.1",
+  "description": "A fun card game",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bopace/diez-fases.git"
+  },
+  "author": "Bo Pace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bopace/diez-fases/issues"
+  },
+  "homepage": "https://github.com/bopace/diez-fases#readme",
+  "dependencies": {
+    "mocha": "3.1.2"
+  }
+}
